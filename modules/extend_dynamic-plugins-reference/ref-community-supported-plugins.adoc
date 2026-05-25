@@ -133,7 +133,7 @@ Replace `<tag>` with the version tag corresponding to your {product-short} versi
 |2.18.0|`oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-community-plugin-scaffolder-backend-module-quay:<tag>`
 
 |*Scaffolder Backend Module ServiceNow*
-|2.15.0|`oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-community-plugin-scaffolder-backend-module-servicenow:<tag>`
+|2.15.1|`oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-community-plugin-scaffolder-backend-module-servicenow:<tag>`
 
 |*Scaffolder Backend Module SonarQube*
 |2.15.0|`oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-community-plugin-scaffolder-backend-module-sonarqube:<tag>`
